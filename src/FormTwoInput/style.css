@@ -1,0 +1,15 @@
+.FormTwoInput select{
+  border: 1px solid rgb(84, 112, 131);
+  border-radius: 10px;
+  padding: 7px;
+  font-weight: bold;
+  outline: none;
+}
+
+.FormTwoInput select:focus-within{
+  border: 6px solid rgb(99, 144, 170);
+
+}
+.FormTwoInput .ta{
+  overflow-x: scroll;
+}
